@@ -1,0 +1,10 @@
+Bonjour nous sommes : 
+
+TEURTERIE Alexis(22101493), 
+GENESTIER Théo(22106104), 
+PESCHET Gaël(21505578), 
+FOUREY Mathis(22007085)
+
+Pour pouvoir joué a notre jeu il faut ouvrir le fichier Orchestrator puis vous devez cliqué sur le bouton nouvelle partie,
+ce bouton va vous ouvrir les options vous les choisissez puis cliqué sur confirmer afin de lancer le jeu.
+Bon jeu ! 

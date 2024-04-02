@@ -1,0 +1,15 @@
+Dossier resources :
+	Il contient les bases de données types json.
+
+Dossier src :
+	Il contient le code source.
+	
+	Pour lancer l'interface graphique :
+		Il faut se placer dans le src. Ensuite il faut lancer le Main.java dans le data_traitment.
+	
+	Pour la grille classic :
+		Il faut se placer dans le src. Ensuite il faut lancer le Demo.java dans le data_traitment.
+
+	Pour le HashLife : 
+		Il faut lancer Main.java situé dans "hash_life/structure" pour obtenir la version en terminal.
+		Il faut lancer Demo.java situé dans "hash_life/interface_graph" pour obtenir la version graphique.
